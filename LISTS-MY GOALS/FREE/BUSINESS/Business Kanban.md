@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TO-DO
 
+- [ ] Do node course yt
 - [ ] Do Node Ecommerce Course
 - [ ] Do design in paper (big app)
 - [ ] Do desing in figma (big app)
@@ -14,7 +15,6 @@ kanban-plugin: basic
 
 ## DOING
 
-- [ ] Do node course yt
 
 
 ## DONE

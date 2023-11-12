@@ -16,11 +16,13 @@ kanban-plugin: basic
 - [ ] Atomic Habits
 - [ ] Influence of people
 - [ ] Stolen Focus
-- [ ] Experimento Rendición
+- [ ] One thing
 - [ ] Implacable
+- [ ] Essencialism
 - [ ] Todo se puede entrenar
 - [ ] Como hacer que te pasen cosas buenas
 - [ ] La voz de tu alma
+- [ ] Dopamine Generation or Dopamine Nation
 
 
 ## ENTREPHENEUR
@@ -32,6 +34,11 @@ kanban-plugin: basic
 
 - [ ] PNM
 - [ ] GOATA
+
+
+## NEXT BOOK
+
+- [ ] Experimento Rendición
 
 
 ## ------DOING------

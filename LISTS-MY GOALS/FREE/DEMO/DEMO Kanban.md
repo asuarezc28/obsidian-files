@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TO-DO
 
-- [ ] add lateral menu
 - [ ] favs list
 - [ ] install api to send email
 - [ ] button to create new form and send email
@@ -16,11 +15,12 @@ kanban-plugin: basic
 
 ## DOING
 
-- [ ] print user ubication, and zoom to product selected
+- [ ] [[add lateral menu]]
 
 
 ## DONE
 
+- [ ] print user ubication, and zoom to product selected
 - [ ] add modal with esri shops map
 - [ ] calculate route in a new chrome page
 - [ ] calculate distances

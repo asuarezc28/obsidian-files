@@ -7,6 +7,8 @@ kanban-plugin: basic
 ## MINDSET
 
 - [ ] Invict
+- [ ] Superalimentos Tóxicos
+- [ ] Generation Dopamine
 - [ ] Experimento Rendición
 - [ ] Liberación del alma
 - [ ] 79 frases Marco Aurelio, mentalidad positiva
@@ -28,6 +30,7 @@ kanban-plugin: basic
 - [ ] Dopamine Nation
 - [ ] https://kissmind.notion.site/Steve-Jobs-La-biograf-a-de-Walter-Isaacson-d671dfdf8d37463bb8f71eaead99eed6
 - [ ] El arte de que todo te importe una mierda
+- [ ] Vivir con abundancia
 
 
 ## ENTREPHENEUR
@@ -43,13 +46,11 @@ kanban-plugin: basic
 
 ## NEXT BOOK
 
-- [ ] Superalimentos Tóxicos
 
 
 ## ------DOING------
 
 - [ ] Libérese del dolor de espalda
-- [ ] Generation Dopamine
 
 
 ## DONE

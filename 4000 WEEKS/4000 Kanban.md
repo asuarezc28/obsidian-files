@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## TO-DO
 
+- [ ] Game
 - [ ] postGIS
 - [ ] Chess
 - [ ] rubik
 - [ ] Draw
 - [ ] Breath Certification
-- [ ] Game
 
 
 ## DOING

@@ -6,14 +6,11 @@ kanban-plugin: basic
 
 ## TO-DO
 
-- [ ] How to meet girls
-- [ ] Meditation
+- [ ] https://www.twitch.tv/videos/1984558314
 
 
 ## DOING
 
-- [ ] Search Places
-- [ ] Course A.Boss
 
 
 ## DONE

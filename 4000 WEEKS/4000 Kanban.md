@@ -4,26 +4,33 @@ kanban-plugin: basic
 
 ---
 
-## TO-DO
+## LEARNING-TO-DO
 
-- [ ] Game
 - [ ] postGIS
 - [ ] Chess
-- [ ] rubik
+- [ ] Rubik
 - [ ] Draw
 - [ ] Breath Certification
+- [ ] Press Landmine Certificate
+- [ ] Write a Book
+- [ ] How to do a gym routine
 
 
-## DOING
+## DAILY-HABITS-DOING
 
-- [ ] DEMO
-- [ ] angular 17 , signals , onpush
-- [ ] Goata
-- [ ] Dance
-- [ ] Rope Flow
 - [ ] Meditate
 - [ ] Read
 - [ ] Breath
+- [ ] Rope Flow
+- [ ] Goata
+
+
+## LEARNING-DOING
+
+- [ ] DEMO
+- [ ] angular 17 , signals , onpush
+- [ ] Dance
+- [ ] Game
 
 
 ## DONE

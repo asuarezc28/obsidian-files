@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## DOING
 
 - [ ] button to create new form in a Modal and send email
-- [ ] install api to send email
+- [ ] install api to send email  --> https://www.abstractapi.com/guides/send-email-from-angular
 
 
 ## DONE

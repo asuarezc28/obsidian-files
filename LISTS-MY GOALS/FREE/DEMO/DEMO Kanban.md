@@ -8,16 +8,17 @@ kanban-plugin: basic
 
 - [ ] detail product page
 - [ ] detail shop page
+- [ ] install api to send email
 
 
 ## DOING
 
-- [ ] button to create new form in a Modal and send email
-- [ ] install api to send email  --> https://www.abstractapi.com/guides/send-email-from-angular
+- [ ] search and change design
 
 
 ## DONE
 
+- [ ] button to create new form in a Modal and send email
 - [ ] favs list page
 - [ ] [[add lateral menu]]
 - [ ] print user ubication, and zoom to product selected

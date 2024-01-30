@@ -1,0 +1,2 @@
+-Stoic Pomodoro 
+-Senderos de la palma con IA

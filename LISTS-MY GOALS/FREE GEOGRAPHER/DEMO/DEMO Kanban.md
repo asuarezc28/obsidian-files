@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TO-DO
 
+- [ ] mat-card design
 - [ ] detail product page
 - [ ] detail shop page
 - [ ] install api to send email
@@ -13,11 +14,12 @@ kanban-plugin: basic
 
 ## DOING
 
-- [ ] search and change design
 
 
 ## DONE
 
+- [ ] search component
+- [ ] radio buttons
 - [ ] button to create new form in a Modal and send email
 - [ ] favs list page
 - [ ] [[add lateral menu]]

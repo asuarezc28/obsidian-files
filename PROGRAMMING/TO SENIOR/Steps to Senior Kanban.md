@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To-DO
 
-- [ ] ANGULAR 17
 - [ ] Design Patterns
 - [ ] Clean Code Book
 - [ ] Architectures (clean , hexagonal)
@@ -16,6 +15,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] ANGULAR 17
 
 
 ## Done

@@ -1,0 +1,2 @@
+-LLM --> modelo de lenguaje natural
+-puede funcionar con llama a parte de open api

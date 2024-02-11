@@ -13,7 +13,6 @@ kanban-plugin: basic
 - [ ] Breath Certification
 - [ ] Press Landmine Certificate
 - [ ] Write a Book
-- [ ] How to do a gym routine
 
 
 ## DAILY-HABITS-DOING
@@ -35,6 +34,7 @@ kanban-plugin: basic
 
 ## DONE
 
+- [ ] How to do a gym routine
 
 
 

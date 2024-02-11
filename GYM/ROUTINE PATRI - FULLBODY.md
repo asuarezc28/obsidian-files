@@ -2,18 +2,18 @@ ANTERIOR
 Flexiones  
 Jalón al pecho  
 Sentadilla  
-elevaciones laterales---  
+elevaciones laterales------  
   
   
 ANTERIOR Y POSTERIOR  
 Press mancuernas  
 Remo mancuernas  
 Sentadilla  
-Femorales---  
+Femorales--------- 
   
   
 POSTERIOR  
 Flexiones  
-Serrato  
+Serrato  (KT OR OLIMPIC BAR)
 Glute Bridge  
-Peso Muerto KTB--
+Peso Muerto KTB--------

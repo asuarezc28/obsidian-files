@@ -6,7 +6,10 @@ kanban-plugin: basic
 
 ## To-DO
 
-- [ ] Design Patterns
+- [ ] Resolvers
+- [ ] Performance
+- [ ] Design Patterns in Angular
+- [ ] Angular Ninja Book (only the most important)
 - [ ] Clean Code Book
 - [ ] Architectures (clean , hexagonal)
 - [ ] JS Book

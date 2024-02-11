@@ -4,38 +4,53 @@ kanban-plugin: basic
 
 ---
 
-## MINDSET
+## BACKLOG
 
 - [ ] Invict
-- [ ] Experimento Rendición
-- [ ] Liberación del alma
-- [ ] 79 frases Marco Aurelio, mentalidad positiva
-- [ ] Super Sapiens
-- [ ] La Felicidad es el Problema
-- [ ] Siempre en pie
+- [ ] Generation Dopamine
 - [ ] 4000 Weeks
-- [ ] Pensamientos extraordinarios
-- [ ] Wu Wei
-- [ ] Atomic Habits
+- [ ] Siempre en pie
 - [ ] Influence of people
-- [ ] Stolen Focus
-- [ ] One thing
 - [ ] Implacable
+- [ ] Vivir con abundancia
+- [ ] El arte de que todo te importe una mierda
+- [ ] https://kissmind.notion.site/Steve-Jobs-La-biograf-a-de-Walter-Isaacson-d671dfdf8d37463bb8f71eaead99eed6
+- [ ] Dopamine Nation
+- [ ] La voz de tu alma
+- [ ] Como hacer que te pasen cosas buenas
 - [ ] Essencialism
 - [ ] Todo se puede entrenar
-- [ ] Como hacer que te pasen cosas buenas
-- [ ] La voz de tu alma
-- [ ] Dopamine Nation
-- [ ] https://kissmind.notion.site/Steve-Jobs-La-biograf-a-de-Walter-Isaacson-d671dfdf8d37463bb8f71eaead99eed6
-- [ ] El arte de que todo te importe una mierda
-- [ ] Vivir con abundancia
-- [ ] The Neville Goddard Deluxe Collection: All 14 Books By A New Thought PioneerThe Neville Goddard Deluxe Collection: All 14 Books By A New Thought Pioneer
+- [ ] Atomic Habits
+- [ ] One thing
+- [ ] La Felicidad es el Problema
+- [ ] Super Sapiens
+- [ ] 79 frases Marco Aurelio, mentalidad positiva
+
+
+## MINDSET
+
+- [ ] Experimento Rendición
+- [ ] Liberación del alma
+- [ ] Pensamientos extraordinarios
+- [ ] Wu Wei
+- [ ] Stolen Focus
+- [ ] The Neville Goddard (Opinion from a woman)
 - [ ] Atomic Focus
+- [ ] El poder de la disciplinca (Ryan Holiday)
+- [ ] El poder de la mente subconsciente
+- [ ] Si lo crees lo creas
+- [ ] Metas
+- [ ] Diseña tu mente
 
 
 ## ENTREPHENEUR
 
 - [ ] Pequeñas Apuestas
+- [ ] Guía emprendedor revolucionario
+- [ ] Piense y hagase rico
+- [ ] Vendes o Vendes
+- [ ] Marketing en 1 página
+- [ ] Bray Traice , Psicología de ventas
 
 
 ## BODY
@@ -50,16 +65,15 @@ kanban-plugin: basic
 
 ## NEXT BOOKS
 
-- [ ] Generation Dopamine
-- [ ] Guía emprendedor revolucionario
 
 
 ## ------DOING------
 
 - [ ] Libérese del dolor de espalda
 - [ ] Superalimentos Tóxicos
-- [ ] Start With Why
 - [ ] Experimento Rendición
+- [ ] Oxigen Adventage
+- [ ] Branding Low Cost
 
 
 ## DONE

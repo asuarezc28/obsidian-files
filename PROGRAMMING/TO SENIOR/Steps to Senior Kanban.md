@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To-DO
 
+- [ ] https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 - [ ] Resolvers
 - [ ] Performance
 - [ ] Design Patterns in Angular
@@ -18,12 +19,12 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] ANGULAR 17
+- [ ] [[Anki Interviews]]
+- [ ] ANGULAR 17 (Watch full video)
 
 
 ## Done
 
-- [ ] Anki Interviews
 
 
 

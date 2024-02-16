@@ -1,3 +1,5 @@
+FUNTAMENTALS OF WEB
+https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 CODE ORGANIZATION
 [https://medium.com/@eugeniyoz/mastering-angular-essential-code-organization-principles-c09838dea6e2](https://medium.com/@eugeniyoz/mastering-angular-essential-code-organization-principles-c09838dea6e2)
 PATRÓN CONTAINER ANGULAR

@@ -1,3 +1,5 @@
+https://www.hsnstore.com/blog/rutinas-entrenamiento/full-body/crear/
+
 ANTERIOR  
 Flexiones  
 Jalón al pecho  

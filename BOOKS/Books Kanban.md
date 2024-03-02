@@ -65,6 +65,7 @@ kanban-plugin: basic
 
 ## NEXT BOOKS
 
+- [ ] Branding Low Cost
 
 
 ## ------DOING------
@@ -73,7 +74,7 @@ kanban-plugin: basic
 - [ ] Superalimentos Tóxicos
 - [ ] Experimento Rendición
 - [ ] Oxigen Adventage
-- [ ] Branding Low Cost
+- [ ] Metas
 
 
 ## DONE

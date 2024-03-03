@@ -16,41 +16,59 @@ kanban-plugin: basic
 - [ ] El arte de que todo te importe una mierda
 - [ ] https://kissmind.notion.site/Steve-Jobs-La-biograf-a-de-Walter-Isaacson-d671dfdf8d37463bb8f71eaead99eed6
 - [ ] Dopamine Nation
-- [ ] La voz de tu alma
 - [ ] Como hacer que te pasen cosas buenas
 - [ ] Essencialism
 - [ ] Todo se puede entrenar
-- [ ] Atomic Habits
 - [ ] One thing
 - [ ] La Felicidad es el Problema
-- [ ] Super Sapiens
 - [ ] 79 frases Marco Aurelio, mentalidad positiva
+- [ ] Las leyes del éxito
 
 
 ## MINDSET
 
-- [ ] Experimento Rendición
-- [ ] Liberación del alma
 - [ ] Pensamientos extraordinarios
 - [ ] Wu Wei
 - [ ] Stolen Focus
-- [ ] The Neville Goddard (Opinion from a woman)
 - [ ] Atomic Focus
-- [ ] El poder de la disciplinca (Ryan Holiday)
-- [ ] El poder de la mente subconsciente
 - [ ] Si lo crees lo creas
 - [ ] Metas
+- [ ] El poder de la disciplinca (Ryan Holiday)
+- [ ] El poder de la mente subconsciente
 - [ ] Diseña tu mente
+- [ ] Super Sapiens
+- [ ] Atomic Habits
+
+
+## SPIRIT
+
+- [ ] Liberación del alma
+- [ ] The Neville Goddard (Opinion from a woman)
+- [ ] Neville Goddar COLECCIÓN
+- [ ] La voz de tu alma
+- [ ] Poder frente a la fuerza
+- [ ] Autobiografía de un yogui
+- [ ] Tres pilares del Zen
+
+
+## MONEY
+
+- [ ] Hazlo bien con tu dinero
+- [ ] Empieza a invertir hoy
+- [ ] Inversión
 
 
 ## ENTREPHENEUR
 
+- [ ] Storytelling salvaje
+- [ ] Bray Traice , Psicología de ventas
+- [ ] Branding Low Cost
+- [ ] Vendes o Vendes
+- [ ] Marketing en 1 página
 - [ ] Pequeñas Apuestas
 - [ ] Guía emprendedor revolucionario
 - [ ] Piense y hagase rico
-- [ ] Vendes o Vendes
-- [ ] Marketing en 1 página
-- [ ] Bray Traice , Psicología de ventas
+- [ ] INFLUENCIA ?***
 
 
 ## BODY
@@ -65,7 +83,6 @@ kanban-plugin: basic
 
 ## NEXT BOOKS
 
-- [ ] Branding Low Cost
 
 
 ## ------DOING------
@@ -75,6 +92,8 @@ kanban-plugin: basic
 - [ ] Experimento Rendición
 - [ ] Oxigen Adventage
 - [ ] Metas
+- [ ] Mejora tus finanzas personales
+- [ ] Como dejar de preocuparse
 
 
 ## DONE

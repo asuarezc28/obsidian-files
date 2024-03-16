@@ -22,11 +22,19 @@ kanban-plugin: basic
 - [ ] One thing
 - [ ] La Felicidad es el Problema
 - [ ] 79 frases Marco Aurelio, mentalidad positiva
-- [ ] Las leyes del éxito
+- [ ] Nunca te pares
+- [ ] Sin miedo
+- [ ] Curso de milagros
+- [ ] Un nuevo mundo
+- [ ] Paradoja
+- [ ] Steve Jobs
+- [ ] Alquimista
 
 
 ## MINDSET
 
+- [ ] Como fracasar
+- [ ] Como dejar de preocuparse
 - [ ] Pensamientos extraordinarios
 - [ ] Wu Wei
 - [ ] Stolen Focus
@@ -38,17 +46,20 @@ kanban-plugin: basic
 - [ ] Diseña tu mente
 - [ ] Super Sapiens
 - [ ] Atomic Habits
+- [ ] Las leyes del éxito
 
 
 ## SPIRIT
 
 - [ ] Liberación del alma
-- [ ] The Neville Goddard (Opinion from a woman)
-- [ ] Neville Goddar COLECCIÓN
+- [ ] Amar lo que es
 - [ ] La voz de tu alma
+- [ ] Neville Goddar COLECCIÓN
+- [ ] The Neville Goddard (Opinion from a woman)
 - [ ] Poder frente a la fuerza
 - [ ] Autobiografía de un yogui
 - [ ] Tres pilares del Zen
+- [ ] TODOS LOS DE DAVID HAKINGS (VIBRACIÓN)
 
 
 ## MONEY
@@ -56,6 +67,7 @@ kanban-plugin: basic
 - [ ] Hazlo bien con tu dinero
 - [ ] Empieza a invertir hoy
 - [ ] Inversión
+- [ ] Piscología del dinero
 
 
 ## ENTREPHENEUR
@@ -93,7 +105,7 @@ kanban-plugin: basic
 - [ ] Oxigen Adventage
 - [ ] Metas
 - [ ] Mejora tus finanzas personales
-- [ ] Como dejar de preocuparse
+- [ ] Storytelling Salvaje
 
 
 ## DONE

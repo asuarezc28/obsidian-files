@@ -27,7 +27,6 @@ kanban-plugin: basic
 ## LEARNING-DOING
 
 - [ ] DEMO
-- [ ] angular 17 , signals , onpush
 - [ ] Dance
 - [ ] Game
 
@@ -35,6 +34,7 @@ kanban-plugin: basic
 ## DONE
 
 - [ ] How to do a gym routine
+- [ ] angular 17 , signals , onpush
 
 
 

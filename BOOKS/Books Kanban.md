@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] Todo se puede entrenar
 - [ ] Como hacer que te pasen cosas buenas
 - [ ] La voz de tu alma
+- [ ] Dejarse la piel
 
 
 ## ENTREPHENEUR

@@ -6,12 +6,10 @@ kanban-plugin: basic
 
 ## TO-DO
 
-- [ ] Know about Butterfly
 
 
 ## DOING
 
-- [ ] Search Places
 
 
 ## DONE

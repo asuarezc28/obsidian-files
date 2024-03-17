@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## TO-DO
 
+- [ ] PNM
+- [ ] Learning how to create a routine
 - [ ] POSTURE
 - [ ] PRIMAL MOVEMENT
 
 
 ## DOING
 
-- [ ] PNM
 - [ ] GOATA
-- [ ] Learning how to create a routine
 
 
 ## DONE

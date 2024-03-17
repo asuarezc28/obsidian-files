@@ -1,0 +1,1 @@
+Poner las cosas a Tierra, las descarga. Yo hago lo mismo con geodas y shungitas antes de volver a ponerlas en casa (1 vez al mes). Las pongo a Tierra, las mojo, las meto en el congelador y vuelta a las esquinas de la casa. Confieren protección electromagnética. Cuantas más uno tenga, mejor.

@@ -1,0 +1,5 @@
+
+FIREBASE ERRORS:
+Why You See a 200 Status Code:
+1. Firebase SDK Communication: Firebase Firestore SDK does not use traditional HTTP requests for data operations when communicating with the Firestore backend. Instead, it uses WebSockets or other efficient protocols designed for real-time data synchronization. This means that even when an operation fails at the application level (e.g., due to security rules, invalid queries, etc.), the underlying network request that carries these operations (often a WebSocket connection) remains successful (hence the HTTP 200 status code).
+2. Error Handling in Firebase SDK: Errors from Firestore operations are typically handled through the SDK's promise rejections or error callbacks, not through HTTP status codes. These errors include details about what went wrong, including an error code and message, but these details are part of the SDK's error object, not the HTTP response.
